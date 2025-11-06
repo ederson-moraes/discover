@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Ederson Moraes :wave: [Discord !](eder.israel.moraes)
+Feito com ♥ by Ederson Moraes :wave: Discord ! @eder.israel.moraes
